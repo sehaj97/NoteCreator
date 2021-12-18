@@ -1,0 +1,27 @@
+{
+  "name": "note-creator",
+  "version": "1.0.0",
+  "description": "note making webapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "sehaj",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sehaj97/NoteCreator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sehaj97/NoteCreator/issues"
+  },
+  "homepage": "https://github.com/sehaj97/NoteCreator#readme",
+  "devDependencies": {
+    "express": "^4.17.2",
+    "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "jest": "^27.4.5"
+  }
+}
