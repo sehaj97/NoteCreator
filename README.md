@@ -6,8 +6,6 @@
   
 This is a note taking application built using express.
 
-
-Link to deployed application - [https://note-creator-fun.herokuapp.com/](https://note-creator-fun.herokuapp.com/)
   
 ## Table of Contents
 
